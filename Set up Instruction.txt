@@ -1,0 +1,9 @@
+I have used python 2.7.0
+
+1) Create a virtual environment - > virtualenv venv
+2) Activate the environment-> call activate
+3) Installing all the libraries that is required to run the the graph_vt.py-> pip install -r required_libraries_vt.txt
+4) Run graph_vt.py -> python graph_vt.py
+5) Check the "output.html" file and json files for each graph id in the "output_folder" of the current directory
+
+Note: I have also attached output_folder.zip for your reference. 
